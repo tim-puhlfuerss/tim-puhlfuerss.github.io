@@ -3,7 +3,7 @@ layout: page
 permalink: /
 ---
 
-![Profile photo of Tim](/assets/images/tim.png){: .profile-photo}
+![Profile photo of Tim](/assets/images/tim.png){: style="width: 30%; float: right; padding-left: 5%; padding-bottom: 5%;"}
 
 I am a doctoral candidate in Informatics at [Universität Hamburg](https://www.uni-hamburg.de/en.html){:target="_blank"}{:rel="noopener noreferrer"}, Germany, affiliated with the [MAST](https://www.inf.uni-hamburg.de/en/inst/ab/mast/){:target="_blank"}{:rel="noopener noreferrer"} research group, specializing in software engineering research.
 Additionally, I am associated with the interdisciplinary graduate school [DASHH](https://www.dashh.org){:target="_blank"}{:rel="noopener noreferrer"} and the research facility [European XFEL](https://www.xfel.eu/index_eng.html){:target="_blank"}{:rel="noopener noreferrer"}, home to the world's largest X-ray laser.
