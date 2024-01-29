@@ -1,0 +1,12 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.profile-photo {
+    width: 30%; 
+    float: right; 
+    padding-left: 5%; 
+    padding-bottom: 5%;
+    border-radius: 50%;
+}
