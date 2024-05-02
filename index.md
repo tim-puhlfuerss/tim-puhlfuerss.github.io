@@ -25,9 +25,9 @@ __Generative Artificial Intelligence and Prompt Engineering:__
 During my studies, I create and evaluate software incorporating AI technologies to automate demanding developer tasks like writing documentation.
 I currently focus on powerful large language models, like GPT, and aim to optimize their results by applying prompt engineering techniques.
 
-__Human-focused Research Methods:__
+__Empirical Research:__
 As a researcher and developer, I focus on practitioners' views.
-Therefore, I often apply experiments, surveys, and interviews as methods to research the requirements and assessments of the people for whom I develop the tools.
+Therefore, I often apply content analyses, experiments, surveys, interviews as methods to research the requirements and assessments of the people for whom I develop the tools.
 
 ## Publications
 
@@ -35,8 +35,8 @@ Have a look at my [Google Scholar](https://scholar.google.com/citations?user=yCw
 
 ## Projects
 
-Stay tuned for updates on my ongoing research projects, which will soon be published and listed on the [Projects](projects) page.
+Access the software projects that are subject to my ongoing research on the [Projects](projects) page.
 
-## Cheatsheet
+## Knowledge Base
 
-Explore the [Cheatsheet](cheatsheet) page for insights into the lessons I learned as a researcher and software developer.
+Explore the [Knowledge Base](knowledge-base) page for insights into the lessons I learned as a researcher and software developer.
