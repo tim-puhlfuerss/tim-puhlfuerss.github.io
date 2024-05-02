@@ -8,4 +8,4 @@ Explore this page for insights into the lessons I learned as a researcher and so
 
 ## LLM Knowledge Base
 
-The world of large language models (LLMs) is changing rapidly. [Here](https://github.com/tim-puhlfuerss/LLM-Knowledge-Base) is some help keeping track.
+The world of large language models (LLMs) is changing rapidly. [Here](https://github.com/tim-puhlfuerss/LLM-Knowledge-Base){:target="_blank"} is some help keeping track.
