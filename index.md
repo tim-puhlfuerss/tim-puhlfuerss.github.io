@@ -5,8 +5,8 @@ permalink: /
 
 ![Profile photo of Tim](/assets/images/tim.png){: style="width: 30%; float: right; padding-left: 5%; padding-bottom: 5%;"}
 
-I am a doctoral candidate in Informatics at [Universität Hamburg](https://www.uni-hamburg.de/en.html){:target="_blank"}{:rel="noopener noreferrer"}, Germany, affiliated with the [MAST](https://www.inf.uni-hamburg.de/en/inst/ab/mast/){:target="_blank"}{:rel="noopener noreferrer"} research group, specializing in software engineering research.
-Additionally, I am associated with the interdisciplinary graduate school [DASHH](https://www.dashh.org){:target="_blank"}{:rel="noopener noreferrer"} and the research facility [European XFEL](https://www.xfel.eu/index_eng.html){:target="_blank"}{:rel="noopener noreferrer"}, home to the world's largest X-ray laser.
+I am a doctoral candidate in Informatics at [Universität Hamburg](https://www.uni-hamburg.de/en.html){:target="_blank"}{:rel="noreferrer"}, Germany, affiliated with the [MAST](https://www.inf.uni-hamburg.de/en/inst/ab/mast/){:target="_blank"}{:rel="noreferrer"} research group, specializing in software engineering research.
+Additionally, I am associated with the interdisciplinary graduate school [DASHH](https://www.dashh.org){:target="_blank"}{:rel="noreferrer"} and the research facility [European XFEL](https://www.xfel.eu/index_eng.html){:target="_blank"}{:rel="noreferrer"}, home to the world's largest X-ray laser.
 
 I received a Master's _(2021, passed with distinction)_ and a Bachelor's degree _(2019)_ in Informatics from Universität Hamburg.
 Before my studies, I have completed an apprenticeship as IT specialist for application development _(2016, best in class)_ in a company near my hometown, Jena.
@@ -31,7 +31,7 @@ Therefore, I often apply content analyses, experiments, surveys, interviews as m
 
 ## Publications
 
-Have a look at my [Google Scholar](https://scholar.google.com/citations?user=yCwlqboAAAAJ&hl=en&oi=ao){:target="_blank"}{:rel="noopener noreferrer"} profile to receive an overview of my publications.
+Have a look at my [Google Scholar](https://scholar.google.com/citations?user=yCwlqboAAAAJ&hl=en&oi=ao){:target="_blank"}{:rel="noreferrer"} profile to receive an overview of my publications.
 
 ## Projects
 
